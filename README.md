@@ -1,5 +1,5 @@
-## Employees
-# COMSC 165, Diablo Valley College
+# Employees
+## COMSC 165, Diablo Valley College
 Process data for Employees using Tree Structure
 1. Insert the employee's ID to the tree and then the employee's name
 2. Remove the employee's ID from the tree
